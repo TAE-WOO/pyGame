@@ -1,0 +1,9 @@
+# Compiled source
+
+
+# distribution
+dist/
+build/
+.eggs/
+.idea/
+.DS_Store
